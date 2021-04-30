@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+/src/license.lic
+*.db
+/src/build
+/src/dist
+/src/*.spec
